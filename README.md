@@ -18,5 +18,9 @@ To use this notebook you can do one of the following
 2) Edit the code included (produced by prompts to conduct the analysis)
 3) Use the notbook and files as is perhaps as a tool for instruction or demo
 
+Before running a notebook enusre the following libraries are installed by runnning this line of code
+
+!pip install pandas numpy scipy factor_analyzer semopy openpyxl
+
 Any questions can be directed to dave@knockri.com
 

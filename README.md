@@ -1,8 +1,7 @@
 # Scale-Validation
-This is a 4 phase scale validation that combines the Use of LLMs and python notebooks.
+This is a 4 phase approach to scale validation that combines the use of LLMs and python.
 
-The four phases include
-The notebook is broken down into 4 phases that are as follows:
+The four phases include: 
 
 Phase 1 - Item Generation, Reduction, and Refinement
 
@@ -12,15 +11,11 @@ Phase 3 - Convergent, Discriminant, and Incremental Validity
 
 Phase 4 - Criterion-Related Validity
 
-To use this notebook you can do one of the following
+This repository can used for the following purposes
 
 1) Use prompts to generate the code needed to conduct the analysis
 2) Edit the code included (produced by prompts to conduct the analysis)
 3) Use the notbook and files as is perhaps as a tool for instruction or demo
-
-Before running a notebook enusre the following libraries are installed by runnning this line of code
-
-!pip install pandas numpy scipy factor_analyzer semopy openpyxl
 
 Any questions can be directed to dave@knockri.com
 
